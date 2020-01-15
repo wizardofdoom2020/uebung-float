@@ -47,7 +47,9 @@ section {
   background: black;
 }
 
-.col {
+.col {width: 200px; 
+    height: 200px;
+    float: left;
   
 }
 
